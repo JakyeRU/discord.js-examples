@@ -12,7 +12,10 @@ The installation process is quite easy. The first step is to clone this reposito
 ```batch
 git clone https://github.com/JakyeRU/discord.js-examples.git
 ```
-The second step is to run the [installation script](https://github.com/JakyeRU/discord.js-examples/blob/master/Install.bat):
+The second step is to CD into the directory and run the [installation script](https://github.com/JakyeRU/discord.js-examples/blob/master/Install.bat):
+```batch
+cd .\discord.js-examples\
+```
 ```batch
 .\Install.bat
 ```
