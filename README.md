@@ -10,7 +10,7 @@ Discord.JS Examples is a repository that contains various code examples for the 
 ## Installation
 The installation process is quite easy. The first step is to clone this repository:
 ```batch
-git clone discord.js-examples
+git clone https://github.com/JakyeRU/discord.js-examples.git
 ```
 The second step is to run the [installation script](https://github.com/JakyeRU/discord.js-examples/blob/master/Install.bat):
 ```batch
