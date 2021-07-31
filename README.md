@@ -1,6 +1,7 @@
 <h1 align="center">Discord.JS Examples</h1>
 
 <p align="center">
+    <img src="https://img.shields.io/github/workflow/status/JakyeRU/discord.js-examples/CodeQL?style=for-the-badge" alt="license">
     <img src="https://img.shields.io/github/license/JakyeRU/discord.js-examples?style=for-the-badge" alt="license">
 </p>
 
