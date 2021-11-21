@@ -6,6 +6,10 @@
     <img src="https://img.shields.io/github/license/JakyeRU/discord.js-examples?style=for-the-badge" alt="license">
 </p>
 
+<p align="center">
+    ❗ This repository has been abandoned. ❗
+</p>
+
 ## What is this?
 Discord.JS Examples is a repository that contains various code examples for the [Discord.JS](https://discord.js.org/#/docs/main/v12/general/welcome) library. The code examples in this repository <u>should not</u> be used in production because they were originally created for educational purposes only.
 
